@@ -1,1 +1,1 @@
-![Captura de pantalla](img\imggestordetareas.png)
+![Captura de pantalla](imggestordetareas.png)
